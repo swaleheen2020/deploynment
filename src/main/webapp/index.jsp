@@ -7,10 +7,7 @@
 </head>
 <body>
     <h1 style="color:orange" align="center">Welcome to My Application</h1>
-    <p style="color:blue" align="center">This is a basic web application deployed on Tomcat.</p>
-  <p style="color:green" align="center">Thanks for frontlines edutech<p>
-  <p style="color:pink" align="center">Thanks sir ...!! successfully completed the deploy<p>
-
- <p style="color:blue" align="center">Thanks sir ...!! successfuully nexus setups completed <p>
+    <p style="color:blue" align="center">Today successfully completed NEXUS SERVER SETUP AND INTERGRATED THE ARTIFACT IN NEXUS SERVER.</p>
+ 
 </body>
 </html>
